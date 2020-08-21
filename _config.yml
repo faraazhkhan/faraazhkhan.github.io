@@ -14,7 +14,7 @@ author:  # change following line to your infomation.
   name: Parth Parnerkar  # Be used at blog posts' author.
   first_name: Parth  # Be used at index page about me section.
   last_name: Parnerkar  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/Avtr.jpg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/Avtr.png  # upload your avatar at directory and edit it.
   github_username: ParthParnerkar  # Leave blank if you don't have now
   linkedin_id: parthparnerkar # Leave blank if you don't have now
   facebook_username: parthparnerkar  # Leave blank if you don't have now
