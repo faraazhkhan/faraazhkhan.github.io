@@ -33,15 +33,16 @@
     detail: New York Power Authority
     i18n: company_c
   desc:
-    detail: Network Services Team, WPO, New York
+    detail: Network Services, White Plains
     i18n: company_c_desc
   date:
-    detail: Jun 2020
+    detail: May 2019
     i18n: company_c_date
   job:
     detail: Developmental Intern
     i18n: company_c_job
   icon: fa-plus-square
+
 
   
   - name:
