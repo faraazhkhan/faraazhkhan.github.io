@@ -1,60 +1,57 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Rochester Institute of Technology
+    detail: Carnegie Mellon University
+    i18n: company_c
+  desc:
+    detail: TA for Introduction to Deep Learning (11785) at CMU for Spring 2020.
+    i18n: company_c_desc
+  date:
+    detail: Jan 2020
+    i18n: company_c_date
+  job:
+    detail: Graduate Teaching Assistant
+    i18n: company_c_job
+  icon: fa-plus-square
+
+- name:
+    detail: Carnegie Mellon University
     i18n: company_a
   desc:
-    detail: Graduate Teaching Assistant for Telecom Network Engineering in Fall 2020
+    detail: I worked under various research labs at CMU on machine learning, signal processing and Multimodal ML.
     i18n: company_a_desc
   date:
-    detail: Aug. 2020
+    detail: May 2019
     i18n: company_a_date
   job:
-    detail: Graduate Teaching Assistant
+    detail: Graduate Research Assistant
     i18n: company_a_job
   icon: fa-plus-square
-  present: true
 
 - name:
-    detail: Rochester Institute of Technology
+    detail: Aeronatuical Development Establishment
+    i18n: company_d
+  desc:
+    detail: I worked under the flight sim division at DRDO, specifically on researching and integrating flight controllers on UAVs.
+    i18n: company_d_desc
+  date:
+    detail: June 2017
+    i18n: company_d_date
+  job:
+    detail: FSim Div Intern
+    i18n: company_d_job
+  icon: fa-plus-square
+
+- name:
+    detail: SRMAUV
     i18n: company_b
   desc:
-    detail: Graduate Teaching Assistant for Network Planning and Design in Spring 2020
+    detail:  I designed the Electronic systems and subsystems for two iterations of the team's vehicles, Sedna and Alpheus.
     i18n: company_b_desc
   date:
-    detail: Jan. 2020
+    detail: Sept 2015
     i18n: company_b_date
   job:
-    detail: Graduate Teaching Assistant
+    detail: Electronics Domain Lead
     i18n: company_b_job
-  icon: fa-plus-square
-
-- name:
-    detail: New York Power Authority
-    i18n: company_c
-  desc:
-    detail: Network Services, White Plains
-    i18n: company_c_desc
-  date:
-    detail: May 2019
-    i18n: company_c_date
-  job:
-    detail: Developmental Intern
-    i18n: company_c_job
-  icon: fa-plus-square
-
-
-  
-  - name:
-    detail: Ericsson
-    i18n: company_c
-  desc:
-    detail: Idea Mumbai Network Rollout Project, Gurgaon, Mumbai, India
-    i18n: company_c_desc
-  date:
-    detail: May. 2017
-    i18n: company_c_date
-  job:
-    detail: Summer Intern
-    i18n: company_c_job
   icon: fa-plus-square
