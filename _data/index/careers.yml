@@ -1,13 +1,13 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Carnegie Mellon University
+    detail: Rochester Institute of Technology
     i18n: company_c
   desc:
-    detail: TA for Introduction to Deep Learning (11785) at CMU for Spring 2020.
+    detail: Graduate Teaching Assistant for Telecom Network Engineering.
     i18n: company_c_desc
   date:
-    detail: Jan 2020
+    detail: Aug 2020
     i18n: company_c_date
   job:
     detail: Graduate Teaching Assistant
@@ -15,43 +15,43 @@
   icon: fa-plus-square
 
 - name:
-    detail: Carnegie Mellon University
+    detail: Rochester Institute of Technology
     i18n: company_a
   desc:
-    detail: I worked under various research labs at CMU on machine learning, signal processing and Multimodal ML.
+    detail: Graduate Teaching Assistant for Network Planning and Design. Spring 2020.
     i18n: company_a_desc
   date:
-    detail: May 2019
+    detail: Jan 2020
     i18n: company_a_date
   job:
-    detail: Graduate Research Assistant
+    detail: Graduate Teaching Assistant
     i18n: company_a_job
   icon: fa-plus-square
 
 - name:
-    detail: Aeronatuical Development Establishment
+    detail: New York Power Authority
     i18n: company_d
   desc:
-    detail: I worked under the flight sim division at DRDO, specifically on researching and integrating flight controllers on UAVs.
+    detail: Intern for the Network Services team at White Plains Office
     i18n: company_d_desc
   date:
-    detail: June 2017
+    detail: June 2019
     i18n: company_d_date
   job:
-    detail: FSim Div Intern
+    detail: Developmental Intern
     i18n: company_d_job
   icon: fa-plus-square
 
 - name:
-    detail: SRMAUV
+    detail: SRM University
     i18n: company_b
   desc:
-    detail:  I designed the Electronic systems and subsystems for two iterations of the team's vehicles, Sedna and Alpheus.
+    detail:  Graduated from SRM University with a Bachelors in Electronics and Communication Engineering.
     i18n: company_b_desc
   date:
-    detail: Sept 2015
+    detail: May 2018
     i18n: company_b_date
   job:
-    detail: Electronics Domain Lead
+    detail: Student
     i18n: company_b_job
   icon: fa-plus-square
