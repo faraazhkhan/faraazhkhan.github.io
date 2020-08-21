@@ -33,15 +33,16 @@
     detail: New York Power Authority
     i18n: company_c
   desc:
-    detail: Network Services Team, White Plains
+    detail: Network Services Team, WPO, New York
     i18n: company_c_desc
   date:
-    detail: May. 2019
+    detail: Jun 2020
     i18n: company_c_date
   job:
     detail: Developmental Intern
     i18n: company_c_job
   icon: fa-plus-square
+
   
   - name:
     detail: Ericsson
