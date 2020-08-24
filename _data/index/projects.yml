@@ -4,9 +4,9 @@
 - name: Client-Server High Availibility System
   i18n: jalpc
   gh_user: ParthParnerkar
-  repo: ReverseShell
+  repo: MultiClientReverseShell
   img: /static/assets/img/landing/jekyll.png
-  desc: Designed a Client-Server model in Python. Server could handle multiple requests and process them together.
+  desc: Designed a Multi-Client Reverse shell model in Python. Server could handle multiple requests and process them together and could push configurations to any client
 
 - name: Network Automation
   i18n: cpython
