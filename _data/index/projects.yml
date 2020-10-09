@@ -11,7 +11,7 @@
 - name: Network Automation
   i18n: cpython
   gh_user: ParthParnerkar
-  repo: Network-Configurations
+  repo: Network-Automation
   img: /static/assets/img/landing/python.png
   desc: Designed a Network in GNS3 and automated the configuration of devices using Ansible.
   
