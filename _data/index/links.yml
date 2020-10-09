@@ -1,12 +1,8 @@
 # links section data
-- last_name: Parnerkar
-  first_name: Parth
-  desc: Github
+- desc: Github
   website: https://github.com/ParthParnerkar
   email: parthparnerkar123@gmail.com
 
-- last_name: Way
-  first_name: Up
-  desc: Connect
+- desc: Connect
   website: https://www.wayup.com/profile/Parth-Parnerkar-7954be6e67/
   email: me@jarrekk.com
