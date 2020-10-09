@@ -5,7 +5,7 @@
   i18n: jalpc
   gh_user: ParthParnerkar
   repo: MultiClientReverseShell
-  img: /static/assets/img/landing/jekyll.png
+  img: /static/assets/img/landing/router.png
   desc: Designed a Multi-Client Reverse shell model in Python. Server could handle multiple requests and process them together and could push configurations to any client
 
 - name: Network Automation
