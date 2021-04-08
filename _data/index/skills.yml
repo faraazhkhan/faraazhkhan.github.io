@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Penetration Testing, Python, Computer Networks and Protocols, SIEM, Network Security, Cloud Security, Information Assurance, Cryptography 
+aspects: PenTesting, Python, Computer Networks and Protocols, SIEM, Network Security, Cloud Security, Information Assurance, Cryptography 
 percentage: 80, 60, 80, 70, 70, 50, 70, 75
