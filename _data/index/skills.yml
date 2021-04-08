@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: TCP/IP, Python, Machine Learning, Sys-Admin, AWS, Bash, Network Security, SDN
-percentage: 80, 80, 60, 75, 60, 80, 50, 80
+aspects: Penetration Testing, Python, Computer Networks and Protocols, SIEM, Network Security, Cloud Security, Information Assurance, Cryptography 
+percentage: 80, 60, 80, 70, 70, 50, 70, 75
