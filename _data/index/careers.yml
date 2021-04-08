@@ -2,73 +2,71 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 
 - name:
-    detail: VergX LLC
+    detail: Electrosoft Services, Inc
     i18n: company_c
   desc:
-    detail: Network Engineer working on configuration and deployment of SD-WAN
+    detail: Working on Robotics Process Automation in Cybersecurity and developing Blockchain white papers. 
     i18n: company_c_desc
   date:
-    detail: Mar 2021
+    detail: Oct 2020- Dec 2020
     i18n: company_c_date
   job:
-    detail: Network Engineer
+    detail: Research Intern
     i18n: company_c_job
   icon: fa-plus-square
 
 
 
 - name:
-    detail: Rochester Institute of Technology
+    detail: Enterprise E-Support, Inc           
     i18n: company_c
   desc:
-    detail: Graduate Teaching Assistant for Telecom Network Engineering.
+    detail: Conducting penetration tests on EeS on-prem assets, working on SaaS and performing risk assessments. 
     i18n: company_c_desc
   date:
-    detail: Aug 2020
+    detail: June 2020- Aug 2020
     i18n: company_c_date
   job:
-    detail: Graduate Teaching Assistant
+    detail: Security Engineer Intern
     i18n: company_c_job
   icon: fa-plus-square
 
 - name:
-    detail: Rochester Institute of Technology
+    detail: University of Maryland, College Park
     i18n: company_a
   desc:
-    detail: Graduate Teaching Assistant for Network Planning and Design. Spring 2020.
+    detail: Starting my masters in Cybersecurity at the University of Maryland (Expected May 2021).
     i18n: company_a_desc
   date:
-    detail: Jan 2020
+    detail: Aug 2019
     i18n: company_a_date
   job:
-    detail: Graduate Teaching Assistant
+    detail: Graduate Student
     i18n: company_a_job
   icon: fa-plus-square
 
-- name:
-    detail: New York Power Authority
-    i18n: company_d
-  desc:
-    detail: Intern for the Network Services team at White Plains Office
-    i18n: company_d_desc
-  date:
-    detail: June 2019
-    i18n: company_d_date
-  job:
-    detail: Network Development Intern
-    i18n: company_d_job
-  icon: fa-plus-square
+#- name:
+   # detail: New York Power Authority
+   # i18n: company_d  desc:
+ # detail: Intern for the Network Services team at White Plains Office  i18n: company_d_desc
+ # date:
+  #  detail: June 2019
+ #   i18n: company_d_date
+#  job:
+  #  detail: Network Development Intern
+  #  i18n: company_d_job
+ # icon: fa-plus-square
 
 - name:
     detail: SRM University
     i18n: company_b
   desc:
-    detail:  Graduated from SRM University with a Bachelors in Electronics and Communication Engineering.
+    detail:  Graduated from SRM University with a Bachelors in Information Technology.
     i18n: company_b_desc
   date:
-    detail: May 2018
+    detail: May 2019
     i18n: company_b_date
   job:
-    detail: Student
+    detail: Bachelor's Student
     i18n: company_b_job
   icon: fa-plus-square
