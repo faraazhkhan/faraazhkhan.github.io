@@ -1,17 +1,9 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Multi-Client Reverse Shell
+- name: Detection Engineering Portfolio
   i18n: jalpc
-  gh_user: ParthParnerkar
-  repo: MultiClientReverseShell
-  img: /static/assets/img/landing/router.png
-  desc: Designed a Multi-Client Reverse shell model in Python. Server could handle multiple requests and process them together and could push configurations to any client
-
-- name: Network Automation
-  i18n: cpython
-  gh_user: ParthParnerkar
-  repo: Network-Automation
-  img: /static/assets/img/landing/python.png
-  desc: Designed a Network in GNS3 and automated the configuration of devices using Ansible.
-  
+  gh_user: faraazhkhan
+  repo: Detection-Engineering-Portfolio
+  img: /static/assets/img/landing/shattered.png
+  desc: Sigma detection rules mapped to MITRE ATT&CK across Windows, AWS, and Microsoft 365. Each rule has a write-up covering the logic, a test plan, false positives, and limitations, with CI checks on every push.

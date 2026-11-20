@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: PenTesting, Python, Networks and Protocols, SIEM, Network Security, Cloud Security, Information Assurance, Cryptography 
-percentage: 80, 60, 80, 70, 70, 50, 70, 75
+aspects: Detection Engineering, Threat Hunting, SIEM, SOAR, MITRE ATT&CK, Incident Investigation, Cloud Security (AWS), Network Security
+percentage: 85, 80, 80, 75, 85, 75, 65, 70

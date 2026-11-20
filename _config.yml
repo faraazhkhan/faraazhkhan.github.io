@@ -2,8 +2,8 @@
 
 # Website settings
 title: Home
-description: Faraaz Hasan Khan's portfolio
-keywords: Faraaz, Faraaz Hasan Khan, Security Engineer, Cybersecurity
+description: Faraaz Hasan Khan - security engineer focused on detection engineering and threat hunting
+keywords: Faraaz, Faraaz Hasan Khan, Security Engineer, Detection Engineering, Threat Hunting, Sigma, MITRE ATT&CK, Cybersecurity
 baseurl:  / # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://faraazhkhan.github.io/   # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
@@ -28,9 +28,9 @@ author:  # change following line to your infomation.
   #skill_icon2:
    # - name: fa-linux
    # - name: icon-apache
-  desc: I am an Cybersecurity graduate student at the University of Maryland, College Park.
-        
-        My interests and work are primarily focussed towards Penetration Testing, Application Security and Computer Networks. 
+  desc: I am a security engineer with 5+ years of experience in detection engineering, threat hunting, and incident investigation, based in Winnipeg, Canada. I have a Master of Engineering in Cybersecurity from the University of Maryland, College Park.
+
+        I build and tune MITRE ATT&CK-mapped detections and SOAR playbooks. My public detection portfolio (Sigma rules with write-ups and CI checks) is on GitHub.
 # comment
 #disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
   #name: jalpc
